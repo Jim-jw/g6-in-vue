@@ -11,13 +11,13 @@ npm install -g @vue/cli @vue/cli-service-global
 # OR
 yarn global add @vue/cli @vue/cli-service-global
 ```
-下拉依赖项
+- 下拉依赖项
 ```
 npm install
 # OR
 yarn
 ```
-快速原型项目启动
+- 快速原型项目启动
 ```
 npm run dev
 ```

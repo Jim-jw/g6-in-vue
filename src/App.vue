@@ -29,7 +29,7 @@
   import G6 from '@antv/g6';
   import { data } from './plugins/data'; // 渲染Graph的数据
   import './plugins/registerShape'; // 自定义节点；自定义边；
-  import './style/index.css'; // 自定义节点；自定义边；
+  import './style/index.css';
   import EdgTooltip from './components/edgTooltip';
   import NodeTooltip from './components/nodeTooltip';
   import ContextMenu from './components/contextMenu';
@@ -170,7 +170,7 @@
           this.nodeContextMenuY = point.y + 15
           this.showNodeContextMenu = true
         })
-      }
+      },
     },
   }
 </script>

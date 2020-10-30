@@ -28,7 +28,7 @@ export default {
   name: 'edgTooltip',
   props: {
     x: Number,
-    y: Number
-  }
+    y: Number,
+  },
 }
 </script>
