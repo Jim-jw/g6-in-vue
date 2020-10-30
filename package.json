@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "vue serve ./src/App.vue -o"
+  },
+  "dependencies": {
+    "@antv/g6": "^3.8.3",
+    "element-ui": "^2.13.2",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.6",
+    "vue-cli-plugin-element": "^1.0.1",
+    "babel-plugin-component": "^1.1.1"
+  },
+  "rules": {
+    "generator-star-spacing": "off",
+    "no-tabs":"off",
+    "no-unused-vars":"off",
+    "no-console":"off",
+    "no-irregular-whitespace":"off",
+    "no-debugger": "off"
+  }
+}
